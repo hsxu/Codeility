@@ -1,4 +1,4 @@
 Codeility
 =========
 
-Solutions for codility challenges.
+Solutions for https://codility.com/ challenges.
