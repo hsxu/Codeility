@@ -1,4 +1,4 @@
 Codeility
 =========
 
-C# Solutions for https://codility.com/ challenges.
+C# Solutions for a few https://codility.com/ challenges.
